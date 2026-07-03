@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc1faa05ed045e3479c6e6d9ed117532, type: 3}
+  m_Name: Orange
+  m_EditorClassIdentifier: 
+  ID: 2
+  Name: "\u6A58\u5B50"
+  Image: {fileID: 21300000, guid: 4f2c97f5f7a6de3489b9ca366582fd04, type: 3}
+  StackedUpperLimit: 20
+  Describe: "\u8FD9\u53EA\u662F\u4E00\u4E2A\u6A58\u5B50"

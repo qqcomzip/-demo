@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc1faa05ed045e3479c6e6d9ed117532, type: 3}
+  m_Name: Banan
+  m_EditorClassIdentifier: 
+  ID: 1
+  Name: "\u9999\u8549"
+  Image: {fileID: 21300000, guid: 05a4bf36704867c4ca884b7d6e0dbaee, type: 3}
+  StackedUpperLimit: 64
+  Describe: "\u8FD9\u53EA\u662F\u4E00\u6839\u9999\u8549"
